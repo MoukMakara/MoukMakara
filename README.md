@@ -67,16 +67,14 @@ fun_fact: "I turn POS chaos into clean layered APIs"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouk-makara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouk-makara&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoukMakara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoukMakara&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouk-makara&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouk-makara&theme=tokyo-night&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoukMakara&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoukMakara&theme=tokyo-night&hide_border=true" width="49%" />
 </div>
-
-> Replace `mouk-makara` above with your actual GitHub username so the stat cards render correctly.
 
 <br/>
 
