@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:E8C4A2&height=220&section=header&text=Mouk%20Makara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cambodia&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:E8C4A2&height=220&section=header&text=Mouk%20Makara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cambodia&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=650&lines=Building+REST+APIs+with+Spring+Boot;Retail+%2F+POS+systems+at+scale;Learning+Spring+Boot+%26+Next.js;Clean+layered+architecture+advocate" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ```yaml
 name: Mouk Makara
-role: Backend Developer
+role: Full Stack Developer
 location: Cambodia 🇰🇭
 focus: Spring Boot · MyBatis · PostgreSQL · Spring Security (JWT)
 frontend: Next.js
